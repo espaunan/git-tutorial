@@ -1,3 +1,3 @@
 first README.txt
-is that true
+yes, it is true...
 
